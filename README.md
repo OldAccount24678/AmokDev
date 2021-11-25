@@ -12,4 +12,4 @@ if random.randint(1, 5) == 3:
 ### Связь:
 + **Телеграм : @AmokDev [Ссылка](t.me/AmokDev)** 
 + **Телеграм каналы : @AmokDevBio [Ссылка](t.me/AmokDevBio)**
-+ **Телеграм бот (основа) : @pidr_cm_bot [Ссылка](t.me/pidr_cm_bot)**
++ **Телеграм бот : @pidr_cm_bot [Ссылка](t.me/pidr_cm_bot)**

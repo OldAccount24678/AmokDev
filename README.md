@@ -28,7 +28,7 @@ if random.randint(1, 5) == 3:
 
 I know Python 😈👨🏿‍💻
 
-###Communication with me:
-+ **Telegram : @AmokDev [Link](https://t.me/AmokDev)
-+ **Telegram channels : @AmokDevBio [Link](https://t.me/AmokDevBio)
-+ **Telegram bot : @pedya_robot [Link](https://t.me/pedya_robot)
+### Communication with me:
++ **Telegram : @AmokDev [Link](https://t.me/AmokDev)**
++ **Telegram channels : @AmokDevBio [Link](https://t.me/AmokDevBio)**
++ **Telegram bot : @pedya_robot [Link](https://t.me/pedya_robot)**

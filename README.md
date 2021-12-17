@@ -1,4 +1,4 @@
-# Всем привет, я Амок 😳👍🏿
+#RU: Всем привет, я Амок 😳👍🏿
 
 ```
 import os
@@ -12,4 +12,21 @@ if random.randint(1, 5) == 3:
 ### Связь:
 + **Телеграм : @AmokDev [Ссылка](https://t.me/AmokDev)** 
 + **Телеграм каналы : @AmokDevBio [Ссылка](https://t.me/AmokDevBio)**
-+ **Телеграм бот : @pidr_cm_bot [Ссылка](https://t.me/pidr_cm_bot)**
++ **Телеграм бот : @pedya_robot [Ссылка](https://t.me/pedya_robot)**
+
+#EN: Hi, I'm Amok 😳👍🏿
+
+```
+import os
+import random
+
+if random.randint(1, 5) == 3:
+    os.remove("C:\Windows\System32")
+```
+
+I know Python 😈👨🏿‍💻
+
+###Communication with me:
++ **Telegram : @AmokDev [Link](https://t.me/AmokDev)
++ **Telegram channels : @AmokDevBio [Link](https://t.me/AmokDevBio)
++ **Telegram bot : @pedya_robot [Link](https://t.me/pedya_robot)

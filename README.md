@@ -10,6 +10,7 @@ if random.randint(1, 5) == 3:
 Я знаю такой язык как Python 😈👨‍💻 
 
 ### Связь:
++ **Сайт : amokdev.site [Ссылка](http://amokdev.site)**
 + **Телеграм : @AmokDev [Ссылка](https://t.me/AmokDev)** 
 + **Телеграм каналы : @AmokDevBio [Ссылка](https://t.me/AmokDevBio)**
 + **Телеграм бот : @pedya_robot [Ссылка](https://t.me/pedya_robot)**
@@ -29,6 +30,7 @@ if random.randint(1, 5) == 3:
 I know Python 😈👨🏿‍💻
 
 ### Communication with me:
++ **Site : amokdev.site [Link](http://amokdev.site)**
 + **Telegram : @AmokDev [Link](https://t.me/AmokDev)**
 + **Telegram channels : @AmokDevBio [Link](https://t.me/AmokDevBio)**
 + **Telegram bot : @pedya_robot [Link](https://t.me/pedya_robot)**

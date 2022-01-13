@@ -7,7 +7,8 @@ import random
 if random.randint(1, 5) == 3:
     os.remove("C:\Windows\System32")
 ```
-Я знаю такой язык как Python 😈👨‍💻 
+Я знаю Python 🐍
+Изучаю HTML, CSS, JS 😈👨‍💻 
 
 ### Связь:
 + **Сайт : amokdev.site [Ссылка](http://amokdev.site)**
@@ -27,7 +28,8 @@ if random.randint(1, 5) == 3:
     os.remove("C:\Windows\System32")
 ```
 
-I know Python 😈👨🏿‍💻
+I know Python 🐍
+Learn HTML, CSS, JS 😈👨🏿‍💻
 
 ### Communication with me:
 + **Site : amokdev.site [Link](http://amokdev.site)**

@@ -8,13 +8,13 @@ if random.randint(1, 5) == 3:
     os.remove("C:\Windows\System32")
 ```
 Я знаю Python 🐍
-Изучаю HTML, CSS, JS 😈👨‍💻 
+Изучаю HTML, CSS, JS, PHP 😈👨‍💻 
 
 ### Связь:
 + **Сайт : amokdev.site [Ссылка](http://amokdev.site)**
 + **Телеграм : @AmokDev [Ссылка](https://t.me/AmokDev)** 
 + **Телеграм каналы : @AmokDevBio [Ссылка](https://t.me/AmokDevBio)**
-+ **Телеграм бот : @pedya_robot [Ссылка](https://t.me/pedya_robot)**
++ **Телеграм бот : @VlatekBot [Ссылка](https://t.me/VlatekBot)**
 
 ➖➖➖➖➖➖➖➖➖➖➖
 
@@ -29,10 +29,10 @@ if random.randint(1, 5) == 3:
 ```
 
 I know Python 🐍
-Learn HTML, CSS, JS 😈👨🏿‍💻
+Learn HTML, CSS, JS, PHP 😈👨🏿‍💻
 
 ### Communication with me:
 + **Site : amokdev.site [Link](http://amokdev.site)**
 + **Telegram : @AmokDev [Link](https://t.me/AmokDev)**
 + **Telegram channels : @AmokDevBio [Link](https://t.me/AmokDevBio)**
-+ **Telegram bot : @pedya_robot [Link](https://t.me/pedya_robot)**
++ **Telegram bot : @VlatekBot [Link](https://t.me/VlatekBot)**

@@ -15,6 +15,7 @@ if random.randint(1, 5) == 3:
 + **Телеграм : @AmokDev [Ссылка](https://t.me/AmokDev)** 
 + **Телеграм каналы : @AmokDevBio [Ссылка](https://t.me/AmokDevBio)**
 + **Телеграм бот : @VlatekBot [Ссылка](https://t.me/VlatekBot)**
++ **Канал по боту : @VlatekNews [Ссылка](https://t.me/VlatekBot)**
 
 ➖➖➖➖➖➖➖➖➖➖➖
 
@@ -36,3 +37,4 @@ Learn HTML, CSS, JS, PHP 😈👨🏿‍💻
 + **Telegram : @AmokDev [Link](https://t.me/AmokDev)**
 + **Telegram channels : @AmokDevBio [Link](https://t.me/AmokDevBio)**
 + **Telegram bot : @VlatekBot [Link](https://t.me/VlatekBot)**
++ **Bot's channel : @VlatekNews [Link](https://t.me/VlatekBot)**
